@@ -1,0 +1,123 @@
+men,1696680,White shirt - S,1500,97
+men,1676437,White shirt - M,1500,24
+men,1692052,White shirt - L,1500,80
+men,1658681,White shirt - XL,1500,65
+men,1361733,Black shirt - S,1500,79
+men,1650894,Black shirt - M,1500,47
+men,1644753,Blacl shirt - L,1500,34
+men,1679383,Black shirt - XL,1500,16
+men,1649599,Blue shirt - S,1500,81
+men,1685394,Blue shirt - M,1500,45
+men,1496404,Blue shirt - L,1500,28
+men,1527110,Blue shirt - XL,1500,32
+men,1646547,Red shirt - S,1500,11
+men,1689337,Red shirt - M,1500,69
+men,1687607,Red shirt - L,1500,50
+men,1715461,Red shirt - XL,1500,24
+men,1439022,Black Pants - S,4500,47
+men,1662372,Black Pants - M,4500,60
+men,1653022,Black Pants - L,4500,40
+men,1443219,Black Pants - XL,4500,27
+men,1677892,Grey Pants - S,4500,14
+men,1680786,Grey Pants - M,4500,45
+men,1541922,Grey Pants - L,4500,25
+men,1677991,Grey Pants - XL,4500,87
+men,1285524,Dark Blue Pants - S,4500,33
+men,1677988,Dark Blue Pants - M,4500,56
+men,1662784,Dark Blue Pants - L,4500,37
+men,1528008,Dark Blue Pants - XL,4500,31
+men,1711299,Oversize Red Sweatshirt - M,3000,33
+men,1658562,Oversize Red Sweatshirt - L,3000,13
+men,1537191,Oversize Red Sweatshirt - XL,3000,40
+men,1639578,Black Sweatshirt - S,2500,77
+men,1654823,Black Sweatshirt - M,2500,75
+men,1533766,Black Sweatshirt - L,2500,98
+men,1651332,Black Sweatshirt - XL,2500,47
+men,1677960,White Nike Air,15000,88
+men,1655420,Black Converse,13000,43
+men,1689342,Air Jordan,27000,8
+men,1685846,Clarks,22000,83
+men,1543563,Greyder Boot,14000,33
+men,1652091,Black Suit,33000,58
+men,1514816,Grey Suit,31000,43
+men,1644845,Beige Suit,29000,44
+men,1349067,Jeans,5500,19
+men,1677933,Denim Jacket,4700,62
+men,1580224,Coat,9000,18
+men,1530058,White Polo T-shirt - M ,11000,15
+men,1458275,White Polo T-shirt - L,11000,4
+men,1687412,Samurai Rick T-Shirt - L,3200,49
+men,1525737,Blue Bermuda,2800,35
+women,1493523,White shirt - S,1100,63
+women,1582347,White shirt - M,1100,64
+women,1570476,White shirt - L,1100,30
+women,1583142,White shirt - XL,1100,16
+women,1544390,Black shirt - S,1100,30
+women,1441485,Black shirt - M,1100,34
+women,1145545,Blacl shirt - L,1100,34
+women,1626792,Black shirt - XL,1100,71
+women,1337788,Blue shirt - S,1100,64
+women,1457202,Blue shirt - M,1100,94
+women,1666979,Blue shirt - L,1100,76
+women,1675495,Blue shirt - XL,1100,71
+women,1450410,Red shirt - S,1100,80
+women,1484149,Red shirt - M,1100,28
+women,1078590,Red shirt - L,1100,73
+women,1570944,Red shirt - XL,1100,43
+women,1688002,Oversize Red Sweatshirt - M,2700,98
+women,1069960,Oversize Red Sweatshirt - L,2700,15
+women,1325046,Oversize Red Sweatshirt - XL,2700,13
+women,1663151,Black Sweatshirt - S,2200,96
+women,1662266,Black Sweatshirt - M,2200,99
+women,1593077,Black Sweatshirt - L,2200,86
+women,1446507,Black Sweatshirt - XL,2200,33
+women,1492011,White Nike Air,15000,46
+women,1528808,Black Converse,13000,97
+women,1426475,White Sundress,3000,28
+women,1459857,Pink Sundress,3000,4
+women,1401322,Olive Green Sundress,3000,81
+women,1518275,Jeans,3400,74
+women,1453250,Denim Jacket - S,4300,19
+women,1594756,Denim Jacket - M,4300,47
+women,1196773,Denim Jacket - L,4300,8
+women,1396541,Denim Jacket - XL,4300,54
+women,1256819,Leather Jacket - S,5550,89
+women,1526881,Leather Jacket - L,5550,67
+women,1439308,Leather Jacket - M,5550,63
+women,1557430,Leather Jacket - XL,5550,63
+women,1456693,Carrot Jeans,3300,72
+women,1421529,Gym Pants,2500,67
+kids,1648167,White shirt - 8y.o,1000,19
+kids,1648170,White shirt - 10y.o,1000,19
+kids,1649334,White shirt - 12y.o,1000,94
+kids,1649335,Blue shirt - 8y.o,1000,49
+kids,1649336,Blue shirt - 10y.o,1000,28
+kids,1649573,Blue shirt - 12y.o,1000,20
+kids,1649578,Sport joging - 10y.o,3500,61
+kids,1658053,Sport joging - 12y.o,3500,51
+kids,1658056,Sport joging - 14y.o,3500,13
+kids,1583629,Sport joging - 16y.o,3500,31
+kids,1596907,Adidas sneakers - 35 ,5500,93
+kids,1599646,Nike sneaker - 37,6000,88
+kids,1599647,Reebok sneaker - 36,5000,23
+kids,1599650,Blue backpack ,2500,16
+kids,1599651,Black backpack ,2500,14
+kids,1570808,Red backpack ,2500,58
+kids,1601666,Pink backpack ,2500,6
+kids,1601674,White dress - 12y.o,3500,80
+kids,1602238,White dress - 14y.o,3500,69
+kids,1602281,Green dress - 12y.o,3500,20
+kids,1603158,Green dress - 16y.o,3500,91
+kids,1604080,Black Sweatshirt - 8y.o,1800,23
+kids,1605875,Black Sweatshirt - 10y.o,1800,20
+kids,1605878,Black Sweatshirt - 14y.o,1800,60
+kids,1609718,Black Sweatshirt - 16y.o,1800,84
+kids,1616545,Blue Sweatshirt - 8y.o,1800,88
+kids,1539485,Blue Sweatshirt - 10y.o,1800,13
+kids,1544763,Blue Sweatshirt - 12y.o,1800,41
+kids,1623995,Blue Sweatshirt - 14y.o,1800,99
+kids,1270088,Red Sweatshirt - 8y.o,1800,13
+kids,1274615,Red Sweatshirt - 10y.o,1800,66
+kids,1280217,Red Sweatshirt - 12y.o,1800,100
+kids,1292271,Red Sweatshirt - 14y.o,1800,47
+kids,1296650,Red Sweatshirt - 16y.o,1800,56
